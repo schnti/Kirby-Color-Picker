@@ -1,2 +1,17 @@
+
+## IDE and system
 .DS_Store
-.directory
+.idea
+.project
+.settings
+config.codekit
+
+## libs
+/bower_components/
+/node_modules/
+
+## kirby
+/website/panel/
+/website/kirby/
+/website/site/cache/
+/website/thumbs/
